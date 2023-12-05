@@ -1,0 +1,21 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hsl(264 30% 96%);
+  border-radius: 8px;
+}
+
+.form-felt {
+  padding: 4px;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+}
+
+button {
+  padding: 0.2rem;
+  margin-top: 1rem;
+}
